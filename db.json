@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Someswar",
+      "body": "9951904116",
+      "author": "Friend",
+      "id": "1"
+    },
+    {
+      "title": "Ram",
+      "body": "6302602564",
+      "author": "Relative",
+      "id": "2"
+    },
+    {
+      "title": "hi",
+      "body": "hello",
+      "author": "Relative",
+      "id": "4"
+    },
+    {
+      "id": "8f9e",
+      "title": "new blog",
+      "body": "123456789",
+      "author": "Relative"
+    }
+  ]
+}
